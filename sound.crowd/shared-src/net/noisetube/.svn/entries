@@ -1,55 +1,0 @@
-10
-
-dir
-28
-https://noisetube.googlecode.com/svn/mobile/java/shared/trunk/src/net/noisetube
-https://noisetube.googlecode.com/svn
-
-
-
-2011-06-06T23:04:21.853844Z
-22
-matthias.stevens@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-505b68f8-3dbb-11df-93ac-230e7a2a3733
-
-model
-dir
-
-tagging
-dir
-
-audio
-dir
-
-config
-dir
-
-io
-dir
-
-core
-dir
-
-location
-dir
-
-util
-dir
-
-ui
-dir
-
