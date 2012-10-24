@@ -35,19 +35,10 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
 
-<!--  <com.google.android.maps.MapView
+	<com.google.android.maps.MapView
 		android:id="@+id/mapview" android:layout_width="fill_parent"
 		android:layout_height="fill_parent" android:clickable="true"
-		android:apiKey="02LP9wXvYxiwz7sbgoiikLX_WvTm5ZCKUkmY5JQ" /> -->
-		<!-- linked to brussense-release key -->
-
-<org.osmdroid.views.MapView
-    android:id="@+id/mapview"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent" 
-    android:clickable="true"
-    tilesource="MapquestOSM" />
-
+		android:apiKey="02LP9wXvYxiwz7sbgoiikLX_WvTm5ZCKUkmY5JQ" /><!-- linked to brussense-release key -->
 
 	<LinearLayout android:orientation="horizontal"
 		android:layout_width="fill_parent" 
