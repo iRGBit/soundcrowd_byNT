@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/tabs
+END
+TabTagActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/tabs/TabTagActivity.java
+END
+TabMapActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/tabs/TabMapActivity.java
+END
+TabLoadingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/tabs/TabLoadingActivity.java
+END
+TabGraphActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/tabs/TabGraphActivity.java
+END
+TabSpectrumActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/tabs/TabSpectrumActivity.java
+END
+Tab.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/tabs/Tab.java
+END

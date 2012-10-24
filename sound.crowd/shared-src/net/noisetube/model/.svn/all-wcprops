@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/model
+END
+Track.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/model/Track.java
+END
+IMeasurementListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/model/IMeasurementListener.java
+END
+INTCoordinates.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/model/INTCoordinates.java
+END
+Measurement.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/model/Measurement.java
+END
+SoundLevelScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/model/SoundLevelScale.java
+END
+NTLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/model/NTLocation.java
+END

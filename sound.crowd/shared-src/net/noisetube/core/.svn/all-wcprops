@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/core
+END
+MeasurementStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/core/MeasurementStatistics.java
+END
+NTClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/core/NTClient.java
+END
+Engine.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/core/Engine.java
+END
+IPausableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/core/IPausableService.java
+END
+IProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/core/IProcessor.java
+END
+IService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/mobile/java/shared/trunk/src/net/noisetube/core/IService.java
+END

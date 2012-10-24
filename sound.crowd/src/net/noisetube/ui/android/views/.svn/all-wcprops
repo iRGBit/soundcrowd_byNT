@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/views
+END
+StatisticsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/views/StatisticsView.java
+END
+SPLView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/views/SPLView.java
+END
+SPLGraphView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/views/SPLGraphView.java
+END
+SpectrumView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8/mobile/java/client_android/trunk/src/net/noisetube/ui/android/views/SpectrumView.java
+END

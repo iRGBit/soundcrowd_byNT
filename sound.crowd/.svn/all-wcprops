@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/mobile/java/client_android/trunk
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/mobile/java/client_android/trunk/default.properties
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/mobile/java/client_android/trunk/LICENSE.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/mobile/java/client_android/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/mobile/java/client_android/trunk/.project
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21/mobile/java/client_android/trunk/CHANGES.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/mobile/java/client_android/trunk/AndroidManifest.xml
+END
+INFO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9/mobile/java/client_android/trunk/INFO.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/mobile/java/client_android/trunk/build.xml
+END
